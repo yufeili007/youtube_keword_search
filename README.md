@@ -12,6 +12,6 @@ To collect comprehensive video information from YouTube, including the title, pu
 
 5.Optimize for Efficiency: Implement efficient pagination handling to fetch data in batches, especially if you're looking to retrieve a large dataset.
 
-6,Comply with API Limits: Keep track of the YouTube Data API's quota limits to avoid exceeding them.
+6.Comply with API Limits: Keep track of the YouTube Data API's quota limits to avoid exceeding them.
 
 7.Handle Data Responsibly: Respect user privacy and follow YouTube's terms of service regarding the use of data obtained through their API.
